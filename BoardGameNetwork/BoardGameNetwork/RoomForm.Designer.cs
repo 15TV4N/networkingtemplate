@@ -41,14 +41,15 @@
             this.chatBox.Name = "chatBox";
             this.chatBox.ReadOnly = true;
             this.chatBox.Size = new System.Drawing.Size(167, 149);
-            this.chatBox.TabIndex = 0;
+            this.chatBox.TabIndex = 1;
             // 
             // sayBox
             // 
             this.sayBox.Location = new System.Drawing.Point(12, 167);
             this.sayBox.Name = "sayBox";
             this.sayBox.Size = new System.Drawing.Size(167, 20);
-            this.sayBox.TabIndex = 1;
+            this.sayBox.TabIndex = 0;
+            this.sayBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.sayBox_KeyPress);
             // 
             // playerlistBox
             // 

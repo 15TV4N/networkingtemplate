@@ -151,7 +151,7 @@ namespace BoardGameNetwork
         }
         public void RoomUpdate(string data)
         {
-            var args = data.Split(' ');
+            var args = data.Split('#');
             switch (args[0])
             {
                 case "say":
