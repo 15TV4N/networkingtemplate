@@ -16,6 +16,7 @@ namespace BoardGameNetwork
     /// The program will run a 'console app' for the server and
     /// a 'chain' of forms for all the clients described below.
     /// TCP protocol is used to communicate through local ports.
+    /// 4 people were involved in the making
     /// </summary>
     static class Program
     {

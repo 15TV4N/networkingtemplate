@@ -12,3 +12,17 @@ C:\Users\IKovacs\Desktop\BoardGameNetwork\BoardGameNetwork\obj\Debug\BoardGameNe
 C:\Users\IKovacs\Desktop\BoardGameNetwork\BoardGameNetwork\obj\Debug\BoardGameNetwork.LobbyForm.resources
 C:\Users\IKovacs\Desktop\BoardGameNetwork\BoardGameNetwork\obj\Debug\BoardGameNetwork.ChooseLobbyNameForm.resources
 C:\Users\IKovacs\Desktop\BoardGameNetwork\BoardGameNetwork\obj\Debug\BoardGameNetwork.RoomForm.resources
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\bin\Debug\BoardGameNetwork.exe.config
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\obj\Debug\BoardGameNetwork.exe
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\obj\Debug\BoardGameNetwork.pdb
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\bin\Debug\BoardGameNetwork.exe
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\bin\Debug\BoardGameNetwork.pdb
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\obj\Debug\BoardGameNetwork.csprojResolveAssemblyReference.cache
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\obj\Debug\BoardGameNetwork.ChooseLobbyNameForm.resources
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\obj\Debug\BoardGameNetwork.ChooseNickForm.resources
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\obj\Debug\BoardGameNetwork.ConnectForm.resources
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\obj\Debug\BoardGameNetwork.ErrorForm.resources
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\obj\Debug\BoardGameNetwork.LobbyForm.resources
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\obj\Debug\BoardGameNetwork.Properties.Resources.resources
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\obj\Debug\BoardGameNetwork.RoomForm.resources
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\obj\Debug\BoardGameNetwork.csproj.GenerateResource.Cache

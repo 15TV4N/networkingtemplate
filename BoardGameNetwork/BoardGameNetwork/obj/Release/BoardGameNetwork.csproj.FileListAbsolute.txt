@@ -1,0 +1,13 @@
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\bin\Release\BoardGameNetwork.exe.config
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\bin\Release\BoardGameNetwork.exe
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\bin\Release\BoardGameNetwork.pdb
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\obj\Release\BoardGameNetwork.ChooseLobbyNameForm.resources
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\obj\Release\BoardGameNetwork.ChooseNickForm.resources
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\obj\Release\BoardGameNetwork.ConnectForm.resources
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\obj\Release\BoardGameNetwork.ErrorForm.resources
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\obj\Release\BoardGameNetwork.LobbyForm.resources
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\obj\Release\BoardGameNetwork.Properties.Resources.resources
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\obj\Release\BoardGameNetwork.RoomForm.resources
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\obj\Release\BoardGameNetwork.csproj.GenerateResource.Cache
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\obj\Release\BoardGameNetwork.exe
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\obj\Release\BoardGameNetwork.pdb
