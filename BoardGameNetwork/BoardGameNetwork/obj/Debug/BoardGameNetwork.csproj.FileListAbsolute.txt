@@ -6,3 +6,6 @@ C:\Users\IKovacs\Desktop\emptyVersion\BoardGameNetwork\BoardGameNetwork\obj\Debu
 C:\Users\IKovacs\Desktop\emptyVersion\BoardGameNetwork\BoardGameNetwork\obj\Debug\BoardGameNetwork.csproj.GenerateResource.Cache
 C:\Users\IKovacs\Desktop\emptyVersion\BoardGameNetwork\BoardGameNetwork\obj\Debug\BoardGameNetwork.exe
 C:\Users\IKovacs\Desktop\emptyVersion\BoardGameNetwork\BoardGameNetwork\obj\Debug\BoardGameNetwork.pdb
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\bin\Debug\BoardGameNetwork.exe.config
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\obj\Debug\BoardGameNetwork.exe
+C:\Users\IKovacs\Documents\GitHub\networkingtemplate\BoardGameNetwork\BoardGameNetwork\obj\Debug\BoardGameNetwork.pdb
