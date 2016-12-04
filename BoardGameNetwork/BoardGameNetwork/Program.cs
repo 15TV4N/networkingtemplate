@@ -1,7 +1,14 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Threading.Tasks;
+using System.Runtime.InteropServices;
 using System.Windows.Forms;
+using System.Net;
+using System.Net.Sockets;
 using System.Threading;
 using System.Drawing;
+using System.IO;
 
 namespace BoardGameNetwork
 {
@@ -32,9 +39,9 @@ namespace BoardGameNetwork
              * (some forms' start location attributes are set to manual input
              * and will spawn based on these values)
              */
-            (new Thread(() => new BGClientApp(new Point(500, 100)))).Start();
+            (new Thread(() =>new BGClientApp(new Point(500,100)))).Start();
             (new Thread(() => new BGClientApp(new Point(200, 400)))).Start();
-            (new Thread(() => new BGClientApp(new Point(500, 400)))).Start();
+            (new Thread(() => new BGClientApp(new Point(500, 400)))).Start(); 
         }
     }
 }
