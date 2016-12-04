@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoardGameNetwork", "BoardGameNetwork\BoardGameNetwork.csproj", "{84977C06-6DE9-47C3-9092-383A8AEB889F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoardGameNetwork", "BoardGameNetwork\BoardGameNetwork.csproj", "{35D56BB7-68D8-4B7D-8BA2-CDF5C2AC27E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{84977C06-6DE9-47C3-9092-383A8AEB889F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{84977C06-6DE9-47C3-9092-383A8AEB889F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{84977C06-6DE9-47C3-9092-383A8AEB889F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{84977C06-6DE9-47C3-9092-383A8AEB889F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35D56BB7-68D8-4B7D-8BA2-CDF5C2AC27E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D56BB7-68D8-4B7D-8BA2-CDF5C2AC27E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D56BB7-68D8-4B7D-8BA2-CDF5C2AC27E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D56BB7-68D8-4B7D-8BA2-CDF5C2AC27E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
